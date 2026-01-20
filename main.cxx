@@ -7,7 +7,8 @@ int main() {
     double radius = 5.0;
     double length = 4.0;
     double width = 6.0;
-
+    
+    std::cout << "hi Qiwei" << std::endl;
     // Set output to fixed point with 2 decimal places
     std::cout << std::fixed << std::setprecision(2);
 
