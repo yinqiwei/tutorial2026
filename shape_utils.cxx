@@ -4,7 +4,7 @@
 
 // Function definitions
 double calculate_circle_area(double radius) {
-    return M_PI * radius * radius;
+    return 3.1415926 * radius * radius;
 }
 
 double calculate_circle_perimeter(double radius) {
@@ -16,6 +16,6 @@ double calculate_rectangle_area(double length, double width) {
 }
 
 double calculate_rectangle_perimeter(double length, double width) {
-    return 2 * (length + width);
+    return 2.000 * (length + width);
 }
 
