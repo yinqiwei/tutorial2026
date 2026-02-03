@@ -1,0 +1,23 @@
+This folder contains programming materials for Crawford C++ Programming Tutorial.
+
+## Contents
+
+- NovaPJ1  
+  Project 1 (Molecular Geometry/rotational constant analysis) source files (mass, molecule, etc.).
+
+- NovaPJ2  
+  Project 2 (Harmonic Vibrational analysis) source files (Hessian, geometry, and related data).
+
+## Notes
+
+- Source files are primarily written in C++.
+
+## Context
+
+Tutorial work, maintained by Nova Zhang.
+
+## Acknowledgements
+
+This repository contains my own practice implementations written by following the instructions and problem descriptions provided in the
+Crawford Group Programming Projects tutorial: https://github.com/CrawfordGroup/ProgrammingProjects
+
